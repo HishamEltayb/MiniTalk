@@ -24,7 +24,7 @@ Use the `MiniTalk.pdf` to get started.
 
 1. Clone the repo
    ```sh
-   git clone git@github.com:HishamEltayb/MiniTalk.git
+   git clone [git@github.com:HishamEltayb/MiniTalk.git](https://github.com/HishamEltayb/MiniTalk.git)
    ```
 2. Makefile:
    ```js
