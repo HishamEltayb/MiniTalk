@@ -38,3 +38,7 @@ Use the `MiniTalk.pdf` to get started.
    ```js
    ./client "$(ps -a | grep './server' | head -n 1 | awk '{print $1}')" "HELLO from the other side😁"
    ```
+4. Try in another terminal:
+   ```js
+   ./client "$(ps -a | grep './server' | head -n 1 | awk '{print $1}')" "$(sh read.sh)"
+   ```
